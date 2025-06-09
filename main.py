@@ -2,8 +2,8 @@ import streamlit as st
 import cv2
 import tempfile
 import os
-#import ultralytics
-#from ultralytics import solutions
+import ultralytics
+from ultralytics import solutions
 import numpy as np
 from PIL import Image
 import time
